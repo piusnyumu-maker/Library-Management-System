@@ -1,0 +1,17 @@
+# Online Library Management System (C++)
+
+## Overview
+This project is an Online Library Management System built in C++ using Object-Oriented Programming (OOP) principles.  
+It manages books, users, and borrowing/returning functionality.
+
+## Features
+- Add and remove books
+- Search books by title, author, or ISBN
+- Manage user accounts
+- Borrow and return books
+
+## Setup Instructions
+Compile with:
+```bash
+g++ main.cpp -o library
+./library
